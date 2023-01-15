@@ -5,7 +5,7 @@ Computer technician and 8th semester student in Computer Engineering. I have par
 
 <h3 align="center">A passionate on Machine Learning</h3>
 
-- 📝 I regularly write articles on [Machine Learning](Machine Learning)
+- 📝 I regularly write articles on Machine Learning
 
 - 📫 How to reach me **kerenramver@gmail.com**
 
