@@ -1,7 +1,7 @@
 # Welcome to my reposities!
 I'm Keren, computer enginnering student from México. 
 
-Computer technician and 8th semester student in Computer Engineering. I have participated in the realization of 3 articles, in the area of Artificial Intelligence; of which, two articles are published in an indexed journal. I have knowledge in the programming languages Java, Python and C based on the different programming paradigms. In addition to a broad foundation in Databases and native web application development.
+I graduated with a degree in Computer Engineering from Universidad Autónoma del Estado de México, with a graduation date in June 2024.". I have participated in the realization of 5 articles, in the area of Artificial Intelligence; of which, two articles are published in an indexed journal. I have knowledge in the programming languages Java, Python and C based on the different programming paradigms. In addition to a broad foundation in Databases and native web application development.
 
 <h3 align="center">A passionate on Machine Learning</h3>
 
