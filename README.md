@@ -7,6 +7,13 @@ I possess skills in programming languages such as Java, Python, PHP, and C, cove
 
 Recently, I completed a program offered by Oracle Next Education focused on Java, with a specialization in SpringBoot.
 
+## Published
+
+R. V. Keren Mitsue, B. P. Luis Arturo, L. C. Asdrúbal , R. H. Rafael and B. L. Jorge, "Nube dinámica de palabras basada en SenticNet para contexto político méxicano," Journal Coloquio de Investigación Multidisciplinaria, pp. 1578-1587, Octubre 2022. 
+
+B. P. Luis Arturo , R. V. Keren Mitsue , L. C. Asdrúbal , T. M. Valentín and G. M. C, "Medición del desempeño de clasificadores usando atributos con MrMR," Journal Coloquio de Investigación Multidisciplinaria, vol. 10, no. 1, pp. 1550-1558, Octubre 2022.
+
+
 <h3 align="center">A passionate on Machine Learning</h3>
 
 - 📝 I regularly write articles on Machine Learning
