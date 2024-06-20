@@ -1,8 +1,17 @@
 # Welcome to my reposities!
 I'm Keren, computer enginnering student from México. 
 
-I graduated with a degree in Computer Engineering from Universidad Autónoma del Estado de México, with a graduation date in June 2024.". I have participated in the realization of 5 articles, in the area of Artificial Intelligence; of which, two articles are published in an indexed journal. I have knowledge in the programming languages Java, Python and C based on the different programming paradigms. In addition to a broad foundation in Databases and native web application development.
+Claro, aquí tienes la traducción al inglés:
 
+---
+
+Graduated with a degree in Computer Engineering from Universidad Autónoma del Estado de México, CU UAEM Zumpango. During my time as a student, I actively participated as a research assistant in projects led by members of the National System of Researchers, successfully publishing two articles in indexed journals.
+
+I possess skills in programming languages such as Java, Python, PHP, and C, covering various programming paradigms. My experience includes using Windows and Linux operating systems, as well as proficiency in database management systems like MySQL and MariaDB. Additionally, I have basic knowledge of version control systems like GitHub.
+
+Recently, I completed a program offered by Oracle Next Education focused on Java, with a specialization in SpringBoot.
+
+---
 <h3 align="center">A passionate on Machine Learning</h3>
 
 - 📝 I regularly write articles on Machine Learning
