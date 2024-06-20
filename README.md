@@ -7,7 +7,7 @@ I possess skills in programming languages such as Java, Python, PHP, and C, cove
 
 Recently, I completed a program offered by Oracle Next Education focused on Java, with a specialization in SpringBoot.
 
-## Published
+## Published articles
 
 R. V. Keren Mitsue, B. P. Luis Arturo, L. C. Asdrúbal , R. H. Rafael and B. L. Jorge, "Nube dinámica de palabras basada en SenticNet para contexto político méxicano," Journal Coloquio de Investigación Multidisciplinaria, pp. 1578-1587, Octubre 2022. 
 
