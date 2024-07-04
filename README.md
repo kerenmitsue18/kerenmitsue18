@@ -9,6 +9,10 @@ Recently, I completed a program offered by Oracle Next Education focused on Java
 
 ## Published articles
 
+Ramírez Vergara, K. M.; López-Chau, A. and Rojas Hernández, R. “Storytelling Utilizing Generative AI to Foster Inclusion of Individuals with Disabilities,” Ingenius, Revista de Ciencia y Tecnología, N.◦ 32, pp. 101-113, 2024, doi: https://doi.org/10.17163/ings.n32.2024.10.
+
+Ramírez Vergara, K., López-Chau, A., Rojas Piloni, F., Rojas Hernández, R., & Trujillo Mora, V. (2024). Cuentos inclusivos con inteligencia artificial generativa. UNIVERSITARIA, 7(49), 64-67. Consultado de https://revistauniversitaria.uaemex.mx/article/view/23074
+
 R. V. Keren Mitsue, B. P. Luis Arturo, L. C. Asdrúbal , R. H. Rafael and B. L. Jorge, "Nube dinámica de palabras basada en SenticNet para contexto político méxicano," Journal Coloquio de Investigación Multidisciplinaria, pp. 1578-1587, Octubre 2022. 
 
 B. P. Luis Arturo , R. V. Keren Mitsue , L. C. Asdrúbal , T. M. Valentín and G. M. C, "Medición del desempeño de clasificadores usando atributos con MrMR," Journal Coloquio de Investigación Multidisciplinaria, vol. 10, no. 1, pp. 1550-1558, Octubre 2022.
