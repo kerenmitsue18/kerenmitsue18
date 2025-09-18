@@ -1,45 +1,53 @@
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+<h1 align="center">¡Hola! 👋 Bienvenid@ a mi perfil de GitHub</h1>
 
 <p align="center">
-  <strong>Computer Engineer</strong> | <strong>Junior Data Engineer</strong> | <strong>ML & AI Enthusiast</strong><br>
-  Passionate about building intelligent systems and making data-driven decisions.
+  <strong>Ingeniera en Computación</strong> | <strong>Data Engineer Jr.</strong> | <strong>Apasionada por la IA y el Aprendizaje Automático</strong>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Sobre mí
 
-I am a **Computer Engineer** from the **Autonomous University of the State of Mexico (UAEMex)**, with experience as a **Junior Data Engineer at Grupo Salinas**, specifically in the **ShopinBaz – Baz SuperApp** area. I specialize in data handling, transformation, and analysis in high-performance environments.
+Soy **Ingeniera en Computación por la Universidad Autónoma del Estado de México (UAEMex)**, con experiencia como **Data Engineer Jr. en Grupo Salinas**, específicamente en el área de **ShipInBaz – Baz SuperApp**. Me especializo en el manejo, transformación y análisis de datos en entornos de alto rendimiento.
 
-I'm also an **author of three research papers published in indexed journals** and have been a **speaker at national conferences**, such as:
-
-- 🧠 *Colloquium on Multidisciplinary Research*
-- 🤖 *16th Mexican Congress on Artificial Intelligence*
+Además, soy **autora de artículos científicos publicados en revistas indizadas** y **ponente en congresos nacionales** relacionados con inteligencia artificial, ciencia de datos y tecnología inclusiva.
 
 ---
 
-## 📚 Publications
+## ✍️ Publicaciones y congresos
 
-- **[Storytelling Utilizing Generative AI to Foster Inclusion of Individuals with Disabilities](https://doi.org/10.17163/ings.n32.2024.10)**  
-  *Ingenius, Revista de Ciencia y Tecnología*, No. 32, pp. 101-113, 2024
+He participado como ponente en:
 
-- **[Cuentos inclusivos con inteligencia artificial generativa](https://revistauniversitaria.uaemex.mx/article/view/23074)**  
-  *Revista Universitaria*, Vol. 7(49), pp. 64–67, 2024
+- 🤖 *XVI Congreso Mexicano de Inteligencia Artificial (CMIA)*
+- 🧠 *Coloquio de Investigación Multidisciplinaria*
+
+### 📚 Artículos publicados
+
+- **Storytelling utilizando IA generativa para fomentar la inclusión de personas con discapacidad**  
+  *K. M. Ramírez Vergara, A. López-Chau, R. Rojas Hernández*  
+  *Ingenius – Revista de Ciencia y Tecnología*, No. 32, pp. 101–113, 2024  
+  [📖 Leer artículo](https://doi.org/10.17163/ings.n32.2024.10)
+
+- **Cuentos inclusivos con inteligencia artificial generativa**  
+  *K. Ramírez Vergara, A. López-Chau, F. Rojas Piloni, R. Rojas Hernández, V. Trujillo Mora*  
+  *Revista Universitaria*, Vol. 7(49), pp. 64–67, 2024  
+  [📖 Leer artículo](https://revistauniversitaria.uaemex.mx/article/view/23074)
 
 - **Nube dinámica de palabras basada en SenticNet para contexto político mexicano**  
-  *Coloquio de Investigación Multidisciplinaria*, pp. 1578–1587, Oct. 2022
+  *K. M. Ramírez Vergara, L. A. Bautista Pérez, A. López-Chau, R. Rojas Hernández, J. Bautista López*  
+  *Coloquio de Investigación Multidisciplinaria*, pp. 1578–1587, octubre de 2022
 
 - **Medición del desempeño de clasificadores usando atributos con MrMR**  
-  *Coloquio de Investigación Multidisciplinaria*, Vol. 10(1), pp. 1550–1558, Oct. 2022
+  *L. A. Bautista Pérez, K. M. Ramírez Vergara, A. López-Chau, V. Trujillo Mora, C. González Martínez*  
+  *Coloquio de Investigación Multidisciplinaria*, Vol. 10(1), pp. 1550–1558, octubre de 2022
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Lenguajes y herramientas
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
@@ -53,13 +61,13 @@ I'm also an **author of three research papers published in indexed journals** an
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contacto
 
-- 📧 Email: **kerenramver@gmail.com**
-- 🌐 Website: [https://kerenmitsue18.github.io](https://kerenmitsue18.github.io)
+- 📧 Correo: **kerenramver@gmail.com**
+- 🌐 Sitio web: [https://kerenmitsue18.github.io](https://kerenmitsue18.github.io)
 - 💼 LinkedIn: [linkedin.com/in/kerenvergara](https://linkedin.com/in/kerenvergara)
 - 📘 Facebook: [Keren Ramírez Vergara](https://facebook.com/kerenramirezvergara)
 
 ---
 
-<h3 align="center">🚀 Always learning and building with data.</h3>
+<h3 align="center">🚀 Siempre aprendiendo y creando con datos</h3>
