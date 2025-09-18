@@ -35,15 +35,13 @@ He participado como ponente en:
 
 - **Nube dinámica de palabras basada en SenticNet para contexto político mexicano**  
   *K. M. Ramírez Vergara, L. A. Bautista Pérez, A. López-Chau, R. Rojas Hernández, J. Bautista López*  
-  *Coloquio de Investigación Multidisciplinaria*, pp. 1578–1587, octubre de 2022
-    [📖 Leer artículo]([https://revistauniversitaria.uaemex.mx/article/view/23074](http://orizaba.tecnm.mx/cim/Journals/2022_Journal_CIM.pdf))
-
-  
+  *Coloquio de Investigación Multidisciplinaria*, pp. 1578–1587, octubre de 2022  
+  [📖 Leer artículo (PDF general)](http://orizaba.tecnm.mx/cim/Journals/2022_Journal_CIM.pdf)
 
 - **Medición del desempeño de clasificadores usando atributos con MrMR**  
   *L. A. Bautista Pérez, K. M. Ramírez Vergara, A. López-Chau, V. Trujillo Mora, C. González Martínez*  
-  *Coloquio de Investigación Multidisciplinaria*, Vol. 10(1), pp. 1550–1558, octubre de 2022
-   [📖 Leer artículo]([https://revistauniversitaria.uaemex.mx/article/view/23074](http://orizaba.tecnm.mx/cim/Journals/2022_Journal_CIM.pdf))
+  *Coloquio de Investigación Multidisciplinaria*, Vol. 10(1), pp. 1550–1558, octubre de 2022  
+  [📖 Leer artículo (PDF general)](http://orizaba.tecnm.mx/cim/Journals/2022_Journal_CIM.pdf)
 
 ---
 
@@ -56,11 +54,11 @@ He participado como ponente en:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/>
+
 </p>
 
 ---
