@@ -36,10 +36,14 @@ He participado como ponente en:
 - **Nube dinámica de palabras basada en SenticNet para contexto político mexicano**  
   *K. M. Ramírez Vergara, L. A. Bautista Pérez, A. López-Chau, R. Rojas Hernández, J. Bautista López*  
   *Coloquio de Investigación Multidisciplinaria*, pp. 1578–1587, octubre de 2022
+    [📖 Leer artículo]([https://revistauniversitaria.uaemex.mx/article/view/23074](http://orizaba.tecnm.mx/cim/Journals/2022_Journal_CIM.pdf))
+
+  
 
 - **Medición del desempeño de clasificadores usando atributos con MrMR**  
   *L. A. Bautista Pérez, K. M. Ramírez Vergara, A. López-Chau, V. Trujillo Mora, C. González Martínez*  
   *Coloquio de Investigación Multidisciplinaria*, Vol. 10(1), pp. 1550–1558, octubre de 2022
+   [📖 Leer artículo]([https://revistauniversitaria.uaemex.mx/article/view/23074](http://orizaba.tecnm.mx/cim/Journals/2022_Journal_CIM.pdf))
 
 ---
 
