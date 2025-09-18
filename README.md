@@ -4,7 +4,7 @@
   <strong>Ingeniera en Computación</strong> | <strong>Data Engineer Jr.</strong> | <strong>Apasionada por la IA y el Aprendizaje Automático</strong>
 </p>
 
----
+
 
 ## 👩‍💻 Sobre mí
 
@@ -12,7 +12,7 @@ Soy **Ingeniera en Computación por la Universidad Autónoma del Estado de Méxi
 
 Además, soy **autora de artículos científicos publicados en revistas indizadas** y **ponente en congresos nacionales** relacionados con inteligencia artificial, ciencia de datos y tecnología inclusiva.
 
----
+
 
 ## ✍️ Publicaciones y congresos
 
@@ -43,25 +43,24 @@ He participado como ponente en:
   *Coloquio de Investigación Multidisciplinaria*, Vol. 10(1), pp. 1550–1558, octubre de 2022  
   [📖 Leer artículo (PDF general)](http://orizaba.tecnm.mx/cim/Journals/2022_Journal_CIM.pdf)
 
----
+
 
 ## 🛠️ Lenguajes y herramientas
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/>
 
 </p>
 
----
+
 
 ## 📫 Contacto
 
