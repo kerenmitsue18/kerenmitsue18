@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-I am a **Computer Engineer** from the **Autonomous University of the State of Mexico (UAEMex)**, with experience as a **Junior Data Engineer at Grupo Salinas**, specifically in the **ShipInBaz – Baz SuperApp** division. I specialize in data handling, transformation, and analysis in high-performance environments.
+I am a **Computer Engineer** from the **Autonomous University of the State of Mexico (UAEMex)**, with experience as a **Junior Data Engineer at Grupo Salinas**, specifically in the **ShopinBaz – Baz SuperApp** area. I specialize in data handling, transformation, and analysis in high-performance environments.
 
 I'm also an **author of three research papers published in indexed journals** and have been a **speaker at national conferences**, such as:
 
