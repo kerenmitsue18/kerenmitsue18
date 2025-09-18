@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Sobre mí
 
-Soy **Ingeniera en Computación por la Universidad Autónoma del Estado de México (UAEMex)**, con experiencia como **Data Engineer Jr. en Grupo Salinas**, específicamente en el área de **ShipInBaz – Baz SuperApp**. Me especializo en el manejo, transformación y análisis de datos en entornos de alto rendimiento.
+Soy **Ingeniera en Computación por la Universidad Autónoma del Estado de México (UAEMex)**, con experiencia como **Data Engineer Jr. en Grupo Salinas**, específicamente en el área de **ShopinBaz – Baz SuperApp**. Me especializo en el manejo, transformación y análisis de datos en entornos de alto rendimiento.
 
 Además, soy **autora de artículos científicos publicados en revistas indizadas** y **ponente en congresos nacionales** relacionados con inteligencia artificial, ciencia de datos y tecnología inclusiva.
 
